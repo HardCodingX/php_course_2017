@@ -3,7 +3,7 @@
     <title>Registra tu nombre</title>
   </head>
   <body>
-    <form action="" method="get">
+    <form action="" target="_blank" method="get">
       <input type="text"  name="myName" placeholder="Name" />
       <input type="checkbox"  name="myCheckbox" placeholder="Check" />
       <input type="radio"  name="myRadio" placeholder="Radio" />
